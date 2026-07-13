@@ -1,6 +1,6 @@
 # Hi, I'm Neha Sheikh 👋
 
-## 👩‍💻 Software Engineering Student | Flutter Developer | QA & Cloud Enthusiast
+## 👩‍💻 Software Engineering Student
 
 Welcome to my GitHub profile! I am a passionate software engineering student interested in building scalable applications, exploring mobile development, cloud technologies, and artificial intelligence.
 
